@@ -140,11 +140,7 @@ They serve as a bridge between requirements and testing by defining *how success
 ---
 
 ## 👩‍💻 Author
-Created by **[Your Name]**  
-📧 Contact: your.email@example.com  
-🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+Created by **Benjamin Nyankson**  
+🌐 GitHub: [https://github.com/benjamin-nyankson](https://github.com/your-username)
 
 ---
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
