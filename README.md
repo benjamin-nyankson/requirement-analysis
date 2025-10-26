@@ -1,4 +1,4 @@
-# 🧾 Requirement Analysis in Software Development
+# Requirement Analysis in Software Development
 
 ## Introduction
 This repository is dedicated to exploring the **Requirement Analysis** phase in software development — a crucial step that defines the foundation of any successful project.
@@ -21,11 +21,11 @@ The goal of this repository is to:
 ---
 
 ## Contents (Planned)
-- 📘 Overview of Requirement Analysis  
-- 🧩 Functional vs Non-Functional Requirements  
-- 🧠 Techniques for Gathering Requirements  
-- 🧾 Sample Requirement Documents  
-- ⚙️ Tools & Best Practices  
+- Overview of Requirement Analysis  
+- Functional vs Non-Functional Requirements  
+- Techniques for Gathering Requirements  
+- Sample Requirement Documents  
+- Tools & Best Practices  
 
 ---
 
